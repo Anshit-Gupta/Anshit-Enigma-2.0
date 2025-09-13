@@ -53,11 +53,11 @@ Node.js (which includes npm)
 Installation & Setup
 Clone the repository:
 
-git clone [https://github.com/your-username/enigma-website.git](https://github.com/your-username/enigma-website.git)
+git clone https://github.com/Anshit-Gupta/Anshit-Enigma-2.0.git
 
 Navigate to the project directory:
 
-cd enigma-website
+cd Anshit-Enigma-2.0
 
 Install NPM packages:
 
@@ -69,23 +69,7 @@ npm run dev
 
 Your project will now be running on http://localhost:5173/ (or another available port).
 
-📂 Project Structure
-The project follows a standard Vite + React structure:
-
-enigma-website/
-├── public/               # Static assets (images, favicons)
-│   ├── assets/
-│   └── e.svg
-├── src/
-│   ├── components/       # Reusable React components
-│   │   ├── ui/           # UI-specific components (e.g., shaders)
-│   │   ├── Navbar.jsx
-│   │   ├── Events.jsx
-│   │   └── ...
-│   ├── App.jsx           # Main application component
-│   ├── App.css           # Main stylesheet
-│   └── main.jsx          # Entry point of the application
-├ontributing
+🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
@@ -106,6 +90,26 @@ Distributed under the MIT License. See LICENSE for more information.
 📧 Contact
 Devanshu - @CodeKenshinDev
 
-Project Link: https://github.com/your-username/enigma-website── index.html            # The HTML template
+Project Link: https://github.com/Anshit-Gupta/Anshit-Enigma-2.0
+
+📂 Project Structure
+The project follows a standard Vite + React structure:
+
+```
+Anshit-Enigma-2.0/
+├── public/               # Static assets (images, favicons)
+│   ├── assets/
+│   └── e.svg
+├── src/
+│   ├── components/       # Reusable React components
+│   │   ├── ui/           # UI-specific components (e.g., shaders)
+│   │   ├── Navbar.jsx
+│   │   ├── Events.jsx
+│   │   └── ...
+│   ├── App.jsx           # Main application component
+│   ├── App.css           # Main stylesheet
+│   └── main.jsx          # Entry point of the application
+├── index.html            # The HTML template
 ├── package.json          # Project dependencies and scripts
 └── vite.config.js        # Vite configuration
+```
