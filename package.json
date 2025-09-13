@@ -3,6 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anshit-Gupta/Anshit-Enigma-2.0.git"
+  },
+  "homepage": "https://enigma-ecell-website.vercel.app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
